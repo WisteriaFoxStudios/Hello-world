@@ -1,4 +1,3 @@
-#about me
 print("--Name--")
 print("    Wisteria Fox Studios")
 print("--Age--")
@@ -12,6 +11,6 @@ print("    Cookie Run: Kingdom (CRK) ")
 print("--Favourite Anime(s)--")
 print("    Frieren: Beyond Journey's End & The Apothicary's Diary")
 print("--Favourite Subject--")
-print("~Game Developement~")
+print("Game Developement")
 print("--what I do in my spare time--")
 print("Play CRK, Code games, draw digital and physical art & read")
